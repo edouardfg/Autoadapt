@@ -1,0 +1,137 @@
+{"Error":"Error: connect ETIMEDOUT 132.211.219.121:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1552520614215
+},{"Error":"Error: connect ETIMEDOUT 132.211.219.121:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1552520614217
+},{"Error":"Error: connect ETIMEDOUT 132.211.219.121:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1553007710436
+},{"Error":"Error: connect ETIMEDOUT 132.211.219.121:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1553007710443
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1553007879843
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1553008130105
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1554859867337
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1554859867340
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1554861236387
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1554861236390
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1563386711864
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1563386711866
+},{"Error":"Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1290:14)
+    at listenInCluster (net.js:1338:12)
+    at Server.listen (net.js:1425:7)
+    at Object.<anonymous> (C:\Users\Edouard\Desktop\Autoadapt Project\AutoAdapt0204\server.js:143:4)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)", "Time":1563386796803
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1563386797805
+},{"Error":"Error: listen EADDRINUSE: address already in use :::8888
+    at Server.setupListenHandle [as _listen2] (net.js:1290:14)
+    at listenInCluster (net.js:1338:12)
+    at Server.listen (net.js:1425:7)
+    at Object.<anonymous> (C:\Users\Edouard\Desktop\Autoadapt Project\AutoAdapt0204\server.js:143:4)
+    at Module._compile (internal/modules/cjs/loader.js:689:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:700:10)
+    at Module.load (internal/modules/cjs/loader.js:599:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:538:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:530:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:742:12)", "Time":1563386819433
+},{"Error":"Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)", "Time":1563387195770
+},{"Error":"Error: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:111:27)", "Time":1563387196441
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1564956121136
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1564956121145
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1564956183666
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1564957535335
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1564966066336
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565224980932
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565224980936
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565224998823
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565229285909
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565397142665
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565483907407
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565483922443
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565485066837
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565543224183
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565546454476
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806016684
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806016690
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806282977
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806282983
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806307037
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806327046
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565806340542
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565983828756
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565987692120
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565987829390
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1565988667904
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566482421951
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566486618076
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566499995533
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566500309352
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566502953700
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566690968593
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566691147707
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1566842904236
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567130631909
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567276097540
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:2345
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567550840602
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567550840604
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567550855084
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567559515887
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567642383958
+},{"Error":"Error: connect ECONNREFUSED 127.0.0.1:3456
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1117:14)", "Time":1567814911101
+},

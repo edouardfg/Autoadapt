@@ -1,0 +1,16 @@
+{
+  "name": "autoadapt0203",
+  "version": "1.0.0",
+  "description": "Package Nodejs",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Edouard Freve-Guerin",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jsdom": "^13.2.0"
+  }
+}

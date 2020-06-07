@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Controller</title>
+	<br><br><br>
+	<font size="+5">Controller Interface</font>
+	<br><br><br>
+
+	Low button:<button id="buttonStart" class="button" style="background:cyan; cursor:pointer;width:300px;height:100px;">LOW</button>
+	High button:<button id="buttonStart" class="button" style="background:violet; cursor:pointer;width:300px;height:100px;">HIGH</button>
+	End BaseLine:<button id="buttonStart" class="button" style="background:rgb(255, 60, 0); cursor:pointer;width:300px;height:100px;">ENDBASELINE</button>
+	<br><br><br>>
+
+	Start button:<button id="buttonStart" class="button" style="background:green; cursor:pointer;width:300px;height:100px;">TASK</button>
+
+
+	<br><br><br>>
+
+
+	Pause button:<button id="buttonStart" class="button" style="background:orange; cursor:pointer;width:300px;height:100px;">PAUSE</button>
+
+
+
+	
+	<script src=https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js> </script> <script>
+		var success = 'START';
+
+		$('.button').click(function () {
+
+			var buttonText = $(this).html()
+			console.log(buttonText)
+			$.ajax({
+				url: 'http://localhost:80/webapp/server.php',
+				type: 'POST',
+				data: {
+					button: buttonText
+				},
+				success: function (data) {
+					console.log(data)
+				}
+			})
+		})
+	</script>
+	</body>
+
+</html>
