@@ -10,7 +10,7 @@
   "author": "Edouard Freve-Guerin",
   "license": "ISC",
   "dependencies": {
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jsdom": "^13.2.0"
   }
 }
